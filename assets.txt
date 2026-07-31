@@ -1,0 +1,5 @@
+assets/
+├── Customer Journey Using the Lace Model.jpeg
+├── Improved Diagram from AI suggestion.png
+├── screenshot-home.png
+└── screenshot-dashboard.png

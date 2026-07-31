@@ -1,1 +1,31 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>LACE Customer Success Journey</title><link rel="stylesheet" href="css/styles.css"></head><body><header><h1>Customer Success Journey</h1><p>LACE Framework: Land • Adopt • Consume • Expand/Renew</p></header><section class="hero"><h2>Interactive Journey Explorer</h2><p>Walk through the customer lifecycle in under 3 minutes.</p></section><div class="progress"><div id="bar"></div></div><section class="kpis"><div class="card"><h3>FTV</h3><b>5%</b></div><div class="card"><h3>TTO</h3><b>60 Days</b></div><div class="card"><h3>TTV</h3><b>75%</b></div><div class="card"><h3>Health</h3><b>87%</b></div></section><section class="journey"><button onclick="openStage('land')">LAND</button><button onclick="openStage('adopt')">ADOPT</button><button onclick="openStage('consume')">CONSUME</button><button onclick="openStage('renew')">EXPAND & RENEW</button></section><section id="content" class="panel">Select a stage to begin.</section><section class="timeline"><h2>Renewal Timeline</h2><div>180 → 120 → 90 → 60 → 30 → Renewal</div></section><section class="panel"><h2>Decision Gates</h2><p>Adoption Health Check → Value Realized → Renewal Readiness</p></section><div id="modal" class="modal"><div class="modalbox"><span onclick="closeModal()">✖</span><div id="modalcontent"></div></div></div><script src="js/app.js"></script></body></html>
+# Customer Success Journey - LACE Method
+
+## Live Site
+
+https://chamendez.github.io/Customer-Success-Journey---LACE-Method/
+
+## Project Overview
+
+Interactive Customer Success Journey application built using the LACE Model:
+
+- Land
+- Adopt
+- Consume
+- Expand & Renew
+
+## Features
+
+- KPI Dashboard
+- Interactive Journey
+- Renewal Timeline
+- Progress Tracking
+- Customer Success Process Framework
+
+## Supporting Artifacts
+
+- Original Sketch
+- AI Refined Diagram
+- Process Brief
+- docs/
+├── Design-Notes.md
+├── Lessons-Learned.md

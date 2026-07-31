@@ -1,31 +1,23 @@
-# Customer Success Journey - LACE Method
-
-## Live Site
-
-https://chamendez.github.io/Customer-Success-Journey---LACE-Method/
-
-## Project Overview
-
-Interactive Customer Success Journey application built using the LACE Model:
-
-- Land
-- Adopt
-- Consume
-- Expand & Renew
-
-## Features
-
-- KPI Dashboard
-- Interactive Journey
-- Renewal Timeline
-- Progress Tracking
-- Customer Success Process Framework
-
-## Supporting Artifacts
-
-- Original Sketch
-- AI Refined Diagram
-- Process Brief
-- docs/
-├── Design-Notes.md
-├── Lessons-Learned.md
+Customer-Success-Journey---LACE-Method/
+│
+├── index.html
+├── README.md
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── app.js
+│
+├── assets/
+│   ├── Customer Journey Using the Lace Model.jpeg
+│   ├── Improved Diagram from AI suggestion (1).png
+│   └── screenshots/
+│       ├── homepage.png
+│       ├── dashboard.png
+│       └── modal-example.png
+│
+└── docs/
+    ├── Process-Brief.md
+    ├── Design-Notes.md
+    └── Lessons-Learned.md
